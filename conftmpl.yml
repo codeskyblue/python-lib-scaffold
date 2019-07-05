@@ -2,3 +2,5 @@
 variables:
   - name: author
     description: 作者
+  - email: email
+    description: 邮箱
